@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+ <html lang="en">
+    <head>
+        <meta name="viewport" content="weight-device-width, initial-scale=1.0">
+        <title> surya rajesh-portfolio</title>
+        <style>
+            h2{
+                border-bottom: 2px solid;
+                padding-bottom: 2px;
+                margin: 5px;
+            }
+        </style>
+    </head>
+    <body>
+        <center> 
+        <h1>surya rajesh</h1>
+        </center>
+
+        <meta>
+        <section id="about">
+        <h2>about me</h2>
+            <p> a passionta and self motivate BCA student with a strong interest in UI/UX design and web development.
+                known for beging rersponsible, detail oriented and a collaborative team player.
+            </p>
+        </section>
+
+        <section id="skills">
+            <h2> skills</h2>
+            <ul>
+            <li>html</li>
+            <li>css</li>
+            <li>figma</li>
+            <li>canva</li>
+            <li>UI/UI design</li>
+             <li>user interface design</li>
+            </ul>
+        </section>
+
+        <section id="interests">
+            <h2> interests</h2>
+            <ul>
+                <li>Editing</li>
+                <li>drawing</li>
+                <li>designing</li>
+            </ul>
+        </section>
+
+        <section id="project">
+            <h2>project</h2>
+            <div class="project">
+                <h3>mobile shopping app design</h3>
+                <p>mobile shopping app design created a prototype for a mobile app used to browser and purchase mobile phones
+                    tools used figma, canva
+                </p>
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2> contact</h2>
+            <ul>
+                <li>mobile no: 7845112579</li>
+                <li>email: 31suryarajesh@gmail.com</li>
+            </ul>
+            </section>
+    </body>
+    </html>
